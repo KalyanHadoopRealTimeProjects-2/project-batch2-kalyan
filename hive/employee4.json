@@ -1,0 +1,50 @@
+{
+  "empid": 1,
+  "name": "kalyan",
+  "salary": 10000,
+  "dept": "dev",
+  "details": {
+    "address": "hyderabad",
+    "pincode": 500001
+  }
+}
+{
+  "empid": 2,
+  "name": "anvith",
+  "salary": 15000,
+  "dept": "testing"
+}
+{
+  "empid": 3,
+  "name": "raj",
+  "salary": 5000,
+  "dept": "testing",
+  "details": [
+    {
+      "address": "hyderabad",
+      "pincode": 500001
+    },
+    {
+      "address": "banglore",
+      "pincode": 600001
+    }
+  ]
+}
+{
+  "empid": 4,
+  "name": "venkat",
+  "salary": 20000,
+  "dept": "dev"
+}
+{
+  "empid": 5,
+  "name": "soni",
+  "salary": 5000,
+  "dept": "testing"
+}
+{
+  "empid": 6,
+  "name": "rajesh",
+  "salary": 25000,
+  "dept": "dev"
+}
